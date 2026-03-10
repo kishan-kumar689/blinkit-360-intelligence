@@ -138,9 +138,8 @@ jupyter notebook
 
 ## 👤 Author
 
-**[Your Name]**  
-MBA in Data Science | 3 Years Supply Chain Experience  
-Targeting: Data Scientist | Analytics Manager roles
+Kishan Kumar  
+
 
 ---
 
